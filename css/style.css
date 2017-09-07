@@ -1,0 +1,43 @@
+h1 {
+    text-align: center;
+}
+
+.creationalPatterns {
+    color: darkblue;
+}
+
+.structuralPatterns {
+    color: darkred;
+}
+
+.behaviorPatterns {
+    color: forestgreen;
+}
+
+.intent {
+    padding-left: 2%;
+    display: block;
+}
+
+.intentDescription {
+    display: block;
+    padding-left: 2%;
+    padding-top: 0.5%;
+
+}
+
+#container {
+    width: 80%;
+    padding-left: 10%;
+    font-family: Verdana;
+    font-size: 1.2em;
+}
+
+.imageContainer {
+    padding-top: 2%;
+    text-align: center;
+}
+
+img {
+    width: 60%;
+}
